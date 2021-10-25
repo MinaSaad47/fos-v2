@@ -6,3 +6,6 @@ obj/
 
 # VS Code Settings
 .vscode/settings.json
+
+# clangd / ccls autocompletion
+compile_commands.json
